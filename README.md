@@ -60,4 +60,4 @@ MIT
 
 ---
 
-Developed by **PhanterAI Creative Agency**
+MIT © **PhanterAI Creative Agency** — 2026
